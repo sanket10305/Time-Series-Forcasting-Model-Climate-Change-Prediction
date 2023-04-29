@@ -1,2 +1,2 @@
-# Time Series Analyssis for Climete Change Prediction
+# Time Series Analysis for Climate Change Prediction
 
